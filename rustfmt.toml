@@ -1,0 +1,6 @@
+fn_single_line = true
+hex_literal_case = 'Upper'
+imports_granularity = 'One'
+reorder_impl_items = true
+tab_spaces = 2
+use_field_init_shorthand = true
